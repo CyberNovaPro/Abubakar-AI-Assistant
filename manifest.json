@@ -1,0 +1,9 @@
+{
+  "name": "Abubakar AI Assistant",
+  "short_name": "Abubakar AI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "description": "Urdu voice and chat assistant starter app"
+}
